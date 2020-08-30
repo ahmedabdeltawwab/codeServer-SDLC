@@ -35,6 +35,7 @@ Please note that, all tools are already pre installed on the host.
 * Gradle
 * Java
 * IntelliJ IDEA
+* H2 database
 
 ## Build Instructions
 
