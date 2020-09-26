@@ -48,7 +48,7 @@ inside the project root dir, where is build.gradle file is located.
 ## Steps to run the project from cmd
 1- extract the file into your machine
 2- navigate to codeServer-SDLC
-3- run 'gradlew build' then 'gradlew bootRun'
+3- run 'gradlew build' then 'gradlew :bootRun'
 4- the project will run on port 8080, and to check that it is running open http://localhost:8080/api/v2/projects/1 from your browser
 5- now you can use postman or any other client to use the API
 
