@@ -56,5 +56,5 @@ inside the project root dir, where is build.gradle file is located.
 1- Run RestServiceApplication.java main method from your IDE and to check that it is running open http://localhost:8080/api/v2/projects/1 from your browser
 
 ## Note
-make sure that port 8080 is not in use.
-you can use CodeServer-SampleRequestsForPostAPI.postman_collection.json and CodeServer-SampleRequestsForPatchAPI.postman_collection.json from develop branch to test POST and PATCH API from postman.
+1. make sure that port 8080 is not in use.
+2. you can use CodeServer-SampleRequestsForPostAPI.postman_collection.json and CodeServer-SampleRequestsForPatchAPI.postman_collection.json from develop branch to test POST and PATCH API from postman.
