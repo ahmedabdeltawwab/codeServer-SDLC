@@ -1,6 +1,10 @@
 # codeServer-SDLC
 
-CodeServer in house software to manage SDLC (Software Development Life Cycle) Systems and Projects created within those systems. 
+CodeServer in house software to manage SDLC (Software Development Life Cycle) Systems and Projects created within those systems.
+
+### Constraints 
+1. ExternalId and SystemSdlcId are mandatory fields.
+2. you can't add two projects with same ExternalId and SystemSdlcId.
 
 ## Project Frameworks
 
